@@ -3,7 +3,7 @@
 **Team Members:** Kasyn Haney, Will Fladvid, Ramon Lopez, and Jessi Aguirre  
 
 # Project Information
-**Title:** UNT Student Healthcare Access
+**Title:** UNT Student Healthcare Access  
 **Description:**  
 A healthcare access app for college students that helps users find  
 nearby in-network providers based on their insurance and type of care needed, including  
